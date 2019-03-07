@@ -69,11 +69,11 @@ OpenWRT
 使用方法：
 使用root用户登录，运行以下命令：
 
-wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
+wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
 
-chmod +x shadowsocksR.sh
+chmod +x shadowsocks.sh
 
-./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
+./shadowsocks.sh 2>&1 | tee shadowsocks.log
 
 安装完成后，脚本提示如下：
 
