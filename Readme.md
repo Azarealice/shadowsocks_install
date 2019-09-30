@@ -72,7 +72,8 @@ chmod +x shadowsocks.sh
 
 ./shadowsocks.sh 2>&1 | tee shadowsocks.log
 
---------- bbr ----------
+--------------------------------------- bbr --------------------------------------------
+
 wget --no-check-certificate -O bbr.sh https://raw.githubusercontent.com/sakuralethe/across/master/bbr.sh
 
 chmod +x bbr.sh
