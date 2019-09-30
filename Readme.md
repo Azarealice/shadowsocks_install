@@ -72,6 +72,13 @@ chmod +x shadowsocks.sh
 
 ./shadowsocks.sh 2>&1 | tee shadowsocks.log
 
+--------- bbr ----------
+wget --no-check-certificate -O bbr.sh https://raw.githubusercontent.com/sakuralethe/across/master/bbr.sh
+
+chmod +x bbr.sh
+
+./bbr.sh
+
 安装完成后，脚本提示如下：
 
 Congratulations, Shadowsocks-python server install completed!
