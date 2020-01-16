@@ -31,7 +31,7 @@ chmod +x shadowsocks.sh
 
 --------------------------------------- bbr --------------------------------------------
 
-wget --no-check-certificate -O bbr.sh https://raw.githubusercontent.com/sakuralethe/across/master/bbr.sh
+wget --no-check-certificate -O bbr.sh https://raw.githubusercontent.com/Azarealice/across/master/bbr.sh
 
 chmod +x bbr.sh
 
